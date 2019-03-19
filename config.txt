@@ -1,6 +1,6 @@
-﻿token=NTI5NjA5NTM1NTQ4MTYyMDU5.DyOrwA.fvbdO_o3Xl2a-7R-0IDvqA0Joek
+token=NTI2MTM4NzkyMzA2ODAyNjg5.D3KcWg.eild8CVOBUKCfpMCRb1Gf1HY7hc
 owner=510854979364585475
-prefix= !
+prefix= 2
 game= 
 stayinchannel=true
-songinstatus=
+songinstatus=false
